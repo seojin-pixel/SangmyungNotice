@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gongjikok//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:공지왔수뭉 · 진로취업
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:main-770115@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261123
+SUMMARY:[앵커사업팀(서울)] "AI교육과 취업" 26년 청년취업
+ 사관학교 대학+ 교육생 모집
+DESCRIPTION:청년취업사관학교 대학+ AI 교육생을 모집해요
+ (교육비 무료).\n교육은 12/15~1/29 평일 9~18시\, 트랙별 280
+ 시간이에요.\n11월 22일 24시까지 구글폼으로 지원해요.\
+ n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=
+ 770115\n(공지왔수뭉 · 마감일은 자동 추정\, 원문 확인 
+ 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770115
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770065@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261118
+SUMMARY:기후에너지환경부「국립생물자원관 대학생 현장
+ 실습(2027년 동계\, 38기)」참가자 모집 안내
+DESCRIPTION:국립생물자원관 대학생 현장실습(2027 동계) 참
+ 가자를 모집해요.\n생물다양성 관련 전공 3학년·4학년 
+ 1학기 재학생이 대상이에요.\n11월 17일 16시 마감\, 실습
+ 은 1/5~2/4이에요.\n\n원문: https://www.smu.ac.kr/kor/life/notice.d
+ o?mode=view&articleNo=770065\n(공지왔수뭉 · 마감일은 자동 
+ 추정\, 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770065
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770056@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261205
+SUMMARY:[현장실습·일경험지원팀(서울)] 2026학년도 2학기 
+ 현장실습학기제 참여자 모집 재안내
+DESCRIPTION:동계방학 현장실습학기제 참여자를 다시 모집
+ 해요.\n12월 4일(금) 13시까지 e-포트폴리오에서 신청해
+ 요.\n실습은 2027년 1~2월\, 기관별로 조기 마감될 수 있
+ 어요.\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=view&ar
+ ticleNo=770056\n(공지왔수뭉 · 마감일은 자동 추정\, 원문 
+ 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770056
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+# 비밀 값·개인 파일은 올리지 않아요
+.env
+.env.*
+*.key
+*.pem
+service_role*
+# 파이썬·빌드 부산물
+__pycache__/
+*.pyc
+dist/
+node_modules/
+.DS_Store
+# 개인 캘린더 내보내기 파일(이캠퍼스 등)
+*.ics
+!web/cal/*.ics

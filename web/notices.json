@@ -1,0 +1,1946 @@
+{
+ "updated": "2026-11-23T16:04+09:00",
+ "source": "https://www.smu.ac.kr/kor/life/notice.do",
+ "notices": [
+  {
+   "no": 770537,
+   "campus": "천안",
+   "category": "비교과",
+   "title": "[충남앵커공유대학] 2026학년도 충남앵커공유대학 캡스톤 경진대회 개최 및 참가 신청 변경 안내",
+   "author": "김규연",
+   "date": "2026-11-20",
+   "views": 26551,
+   "attachments": 1,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-23",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770537",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": {
+    "grades": [],
+    "status": [],
+    "note": "충남앵커공유대학 참여 학생"
+   },
+   "money": null,
+   "ai": {
+    "summary": [
+     "충남앵커공유대학 캡스톤 경진대회가 12월 4일(금)에 열려요.",
+     "다른 대회 수상작도 참가할 수 있게 참가 기준이 바뀌었어요.",
+     "네이버폼 신청 후 참가·포스터 신청서를 11/23(월) 9시까지 내요."
+    ],
+    "target": "충남앵커공유대학 참여 학생 (팀 수 제한 없음)",
+    "period": "신청 ~ 11. 23.(월) 09:00 / 대회 12. 4.(금) 09:00~18:00",
+    "how": "네이버폼 사전 신청 후 참가신청서·포스터 신청서 이메일 제출",
+    "contact": "충남앵커공유대학 담당자 (원문 참고)",
+    "changes": "타 대회 수상작도 참가 가능 (같은 작품으로 다른 사업 시상금을 받았으면 상장만 수여)",
+    "imageOnly": null
+   },
+   "start": null
+  },
+  {
+   "no": 770536,
+   "campus": "천안",
+   "category": "등록/장학",
+   "title": "[학생복지팀] 2027년도 1학기 국가근로장학금 학생신청기간 안내",
+   "author": "김선영",
+   "date": "2026-11-20",
+   "views": 28458,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770536",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": {
+    "max_won": null,
+    "label": "장학금",
+    "kind": "장학금"
+   },
+   "ai": {
+    "summary": null,
+    "target": null,
+    "period": null,
+    "how": null,
+    "contact": "학생복지팀",
+    "changes": null,
+    "imageOnly": true
+   }
+  },
+  {
+   "no": 770533,
+   "campus": "서울",
+   "category": "학사",
+   "title": "[학사운영팀] 2026학년도 동계 계절수업 등록대상 교과목(폐강 교과목) 및 수강료 납부 안내",
+   "author": "서건",
+   "date": "2026-11-20",
+   "views": 31272,
+   "attachments": 2,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770533",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "2026학년도 동계 계절수업 등록 대상 교과목을 안내해요.",
+     "폐강 교과목과 수강료 납부 내용은 첨부 파일을 확인해요.",
+     "교내 e-러닝 수업은 일정이 달라 별도로 주의해야 해요."
+    ],
+    "target": "2026학년도 동계 계절수업 등록 대상 학생",
+    "period": null,
+    "how": null,
+    "contact": "계당교양교육원교학팀 02-2287-5110",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 770500,
+   "campus": "서울",
+   "category": "비교과",
+   "title": "[교육혁신추진팀] 2026-2 캡스톤디자인 만족도 조사 참여 안내",
+   "author": "김유진",
+   "date": "2026-11-20",
+   "views": 49073,
+   "attachments": 1,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-12-14",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770500",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "2026-2 캡스톤디자인 지원과 경진대회 개선을 위한 만족도 조사예요.",
+     "응답은 2026년 12월 14일 오전 10시까지 가능해요.",
+     "경진대회 마일리지는 결과보고서를 제출한 학생에게만 부여돼요."
+    ],
+    "target": "2026-2 캡스톤디자인 수강생(과제계획서 제출자 등)",
+    "period": "~ 2026. 12. 14.(월) 오전 10시까지",
+    "how": "설문①은 구글 설문 링크로, 설문②는 샘물 통합정보시스템에서 응답",
+    "contact": "교육혁신원 교육혁신추진팀 02-2287-6456",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": null
+  },
+  {
+   "no": 770496,
+   "campus": "천안",
+   "category": "학사",
+   "title": "[학사운영팀] 2026학년도 동계 계절수업 등록 대상 교과목 및 폐강 교과목 안내(천안캠퍼스)",
+   "author": "송나경",
+   "date": "2026-11-20",
+   "views": 36856,
+   "attachments": 1,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770496",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "2026학년도 동계 계절수업 등록 대상 교과목을 안내해요.",
+     "1차 폐강 교과목은 1건, '운동과 건강'이에요.",
+     "폐강 사유는 수강인원 부족이에요. 자세한 내용은 첨부 PDF를 확인하세요."
+    ],
+    "target": "2026학년도 동계 계절수업 등록 대상 교과목(천안캠퍼스)",
+    "period": null,
+    "how": "붙임 PDF '2026학년도 동계 계절수업 등록 안내' 참고",
+    "contact": "학사운영팀",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 770488,
+   "campus": "천안",
+   "category": "일반",
+   "title": "[충남앵커공유대학] 동계 계절학기 수강 안내",
+   "author": "김규연",
+   "date": "2026-11-19",
+   "views": 57604,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-20",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770488",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "충남앵커공유대학 동계 계절학기 수강을 신청해요.",
+     "신청은 11월 16일부터 20일 18시까지 가능해요.",
+     "수강 기간은 12월 21일부터 1월 12일까지예요."
+    ],
+    "target": "디스플레이-반도체소부장융합전공 수강 학생, 에너지융합전공 수강 및 희망 학생",
+    "period": "신청 11. 16.~11. 20. 18시 / 수강 2026. 12. 21.(월) ~ 2027. 1. 12.(화)",
+    "how": "충남앵커공유대학 수강신청시스템에서 신청",
+    "contact": "충남앵커공유대학 041-623-0087",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-11-16"
+  },
+  {
+   "no": 770481,
+   "campus": "서울",
+   "category": "학생생활",
+   "title": "2026학년도 2학기 개인상담 및 심리검사 신청 안내",
+   "author": "전영신",
+   "date": "2026-11-19",
+   "views": 62639,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770481",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "2026학년도 2학기 개인상담 및 심리검사 신청을 안내해요.",
+     "신청은 '상담신청하기' 구글폼 링크로 할 수 있어요.",
+     "세부 일정과 대상은 본문 이미지에서 확인해 주세요."
+    ],
+    "target": null,
+    "period": null,
+    "how": "'상담신청하기' 구글폼 링크로 신청",
+    "contact": null,
+    "changes": null,
+    "imageOnly": true
+   }
+  },
+  {
+   "no": 770471,
+   "campus": "서울",
+   "category": "사회봉사",
+   "title": "[상명사회봉사단] 2026학년도 제6차 리필스테이션 운영 봉사활동 모집",
+   "author": "정다연",
+   "date": "2026-11-19",
+   "views": 78057,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-27",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770471",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "11/30(월) 서울노인복지센터에서 리필스테이션 봉사를 해요.",
+     "선착순 모집이니 참여 가능한 분만 신청해 주세요.",
+     "봉사 1회 인정과 봉사시간 3시간이 부여돼요."
+    ],
+    "target": "참여 가능한 학생 (선착순 모집)",
+    "period": "모집 2026.11.19~11.27 12:00 / 활동 2026.11.30 9:00~15:00",
+    "how": "샘물통합시스템 > 학생기본 > 사회봉사 > 봉사활동 신청",
+    "contact": "상명소셜임팩트센터 운영팀 02-2287-7023",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-11-19"
+  },
+  {
+   "no": 770457,
+   "campus": "천안",
+   "category": "학사",
+   "title": "[교육혁신추진팀] 2026-2 캡스톤디자인 만족도 조사 참여 안내",
+   "author": "조승연",
+   "date": "2026-11-18",
+   "views": 82203,
+   "attachments": 1,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-12-14",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770457",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "캡스톤디자인 교과목 지원 만족도 조사에 참여해요.",
+     "경진대회 만족도 조사는 샘물 시스템에서 응답해요.",
+     "마일리지는 결과보고서를 기한 내 낸 참가자만 받아요."
+    ],
+    "target": "캡스톤디자인 과제계획서 제출 수강생 및 경진대회 참가 학생",
+    "period": "~ 2026. 12. 14.(월) 오전 10시까지",
+    "how": "설문①은 구글 설문 링크, 설문②는 샘물 통합정보시스템에서 응답",
+    "contact": "교육혁신원 교육혁신추진팀 041-623-0068",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": null
+  },
+  {
+   "no": 770410,
+   "campus": "천안",
+   "category": "등록/장학",
+   "title": "[학생복지팀] 한국장학재단 2026년 2학기 주거안정장학금 9월분 지급 안내",
+   "author": "김선영",
+   "date": "2026-11-18",
+   "views": 68899,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770410",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "2026년 2학기 주거안정장학금 9월분이 지급돼요.",
+     "지급일은 2026.11.18.(수)이고 계좌이체로 받아요.",
+     "10~12월분은 월별 제출마감 안에 요청서를 내야 해요."
+    ],
+    "target": "주거안정장학금 신청자 중 장학생 서약서 제출자",
+    "period": "2026.11.18.(수) 지급",
+    "how": "샘물통합정보시스템에 등록된 본인 계좌로 지급",
+    "contact": "천안캠퍼스 학생복지팀 041-550-5021",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 770404,
+   "campus": "천안",
+   "category": "비교과",
+   "title": "[충남앵커공유대학] 에너지융합전공 특강 안내 (2026. 11. 23.(월) 11시)",
+   "author": "김규연",
+   "date": "2026-11-18",
+   "views": 91622,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-23",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770404",
+   "titleDeadline": "2026-11-23",
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "충남앵커사업단이 에너지융합전공 특강을 진행해요.",
+     "2026년 11월 23일(월) 11시에 열려요.",
+     "관심 있는 학생들의 많은 참여를 바라요."
+    ],
+    "target": "관심 있는 학생",
+    "period": "2026. 11. 23.(월) 11시",
+    "how": null,
+    "contact": null,
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-11-23"
+  },
+  {
+   "no": 770399,
+   "campus": "서울",
+   "category": "비교과",
+   "title": "[교육혁신추진팀] 2026-2 캡스톤디자인 경진대회 참가신청 및 결과물 제출 기한 연장",
+   "author": "김유진",
+   "date": "2026-11-18",
+   "views": 99239,
+   "attachments": 2,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-23",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770399",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": {
+    "max_won": 700000,
+    "label": "70만원",
+    "kind": "상금"
+   },
+   "ai": {
+    "summary": [
+     "캡스톤디자인 경진대회 참가신청 기한이 연장됐어요.",
+     "참가신청은 11월 23일 오후 1시까지 학과에 제출해요.",
+     "결과물은 12월 4일까지 내야 하고, 미제출 시 0점이에요."
+    ],
+    "target": "캡스톤디자인 교과목 중 과제계획서를 제출한 강좌 내 팀",
+    "period": "참가신청 ~11. 23.(월) 오후 1시 / 결과물 제출 ~12. 4.(금)",
+    "how": "참가신청서 작성 후 소속 학과 사무실에 제출",
+    "contact": "교육혁신추진팀(서울) 02-2287-6456",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": null
+  },
+  {
+   "no": 770392,
+   "campus": "서울",
+   "category": "등록/장학",
+   "title": "2027년 1학기 국가장학금 1차 신청 안내 및 홍보",
+   "author": "허정만",
+   "date": "2026-11-18",
+   "views": 94843,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770392",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": {
+    "max_won": null,
+    "label": "장학금",
+    "kind": "장학금"
+   },
+   "ai": {
+    "summary": null,
+    "target": null,
+    "period": null,
+    "how": null,
+    "contact": null,
+    "changes": null,
+    "imageOnly": true
+   }
+  },
+  {
+   "no": 770389,
+   "campus": "천안",
+   "category": "등록/장학",
+   "title": "[학생복지팀] 한국장학재단 2027년 1학기 국가장학금 1차 신청 안내",
+   "author": "김선영",
+   "date": "2026-11-18",
+   "views": 75720,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770389",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": {
+    "max_won": null,
+    "label": "장학금",
+    "kind": "장학금"
+   },
+   "ai": {
+    "summary": null,
+    "target": null,
+    "period": null,
+    "how": null,
+    "contact": "학생복지팀",
+    "changes": null,
+    "imageOnly": true
+   }
+  },
+  {
+   "no": 770382,
+   "campus": "천안",
+   "category": "비교과",
+   "title": "[교육혁신추진팀] 2026-2 캡스톤디자인 경진대회 참가신청 기한 연장",
+   "author": "조승연",
+   "date": "2026-11-17",
+   "views": 105557,
+   "attachments": 2,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-23",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770382",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": {
+    "grades": [],
+    "status": [],
+    "note": "캡스톤디자인 수강 팀"
+   },
+   "money": {
+    "max_won": 700000,
+    "label": "대상 70만원",
+    "kind": "상금"
+   },
+   "ai": {
+    "summary": [
+     "캡스톤디자인 경진대회 참가신청 기한이 연장됐어요.",
+     "결과보고서(한글+PDF)와 5분 이내 소개 영상을 둘 다 내야 해요.",
+     "대상 70만원, 최우수 55만원, 우수 30만원, 장려 10만원이에요."
+    ],
+    "target": "캡스톤디자인 교과목을 듣고 계획서를 제출한 팀",
+    "period": "~ 11. 23.(월) 오후 1시 (교육혁신추진팀 도착 기준)",
+    "how": "참가신청서를 작성해 소속 학과 사무실에 제출 (학과별 마감이 더 빠를 수 있음)",
+    "contact": "교육혁신추진팀(천안) 041-623-0068",
+    "changes": "참가신청 기한을 11/23(월) 13시까지로 연장",
+    "imageOnly": null
+   },
+   "start": null,
+   "thread": [
+    770233,
+    770382
+   ],
+   "deadlineChange": [
+    "2026-11-16",
+    "2026-11-23"
+   ],
+   "isLatestInThread": true
+  },
+  {
+   "no": 770369,
+   "campus": "서울",
+   "category": "학생생활",
+   "title": "[학생상담센터] 2026학년도 학생상담센터 수요조사(수뭉이빵 제공)",
+   "author": "유지민",
+   "date": "2026-11-17",
+   "views": 119512,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770369",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "학생상담센터가 이용 활성화를 위해 수요조사를 실시해요.",
+     "설문 내용은 비밀이 보장되고 상담센터 개선 연구에만 쓰여요.",
+     "e-campus 설문 링크에서 참여할 수 있어요."
+    ],
+    "target": null,
+    "period": null,
+    "how": "e-campus 설문 링크에서 설문 참여",
+    "contact": "학생상담센터",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 770348,
+   "campus": "천안",
+   "category": "학사",
+   "title": "[학사운영팀-천안] 2026-2학기 자기설계융합전공 신청 안내",
+   "author": "이창주",
+   "date": "2026-11-16",
+   "views": 99561,
+   "attachments": 1,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770348",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "두 개 이상 전공을 묶어 나만의 전공을 설계하는 제도예요.",
+     "지도교수와 협의해서 교육과정을 짜고 신청해요.",
+     "신청 기간과 방법은 첨부 공고문(PDF)에 있어요."
+    ],
+    "target": null,
+    "period": null,
+    "how": "첨부 공고문 확인 후 기간 내 신청",
+    "contact": "학사운영팀(천안)",
+    "changes": null,
+    "imageOnly": null
+   }
+  },
+  {
+   "no": 770347,
+   "campus": "천안",
+   "category": "비교과",
+   "title": "[충남앵커공유대학] 미래모빌리티융합시스템전공 Skill-up 프로그램 안내",
+   "author": "김규연",
+   "date": "2026-11-16",
+   "views": 121218,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-24",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770347",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "충남앵커 미래모빌리티 Skill-up 프로그램이 열려요.",
+     "AI 기반 제품 기획·시각화 실무 마스터클래스로 총 8시간이에요.",
+     "참가신청은 11월 19일 17시까지였어요."
+    ],
+    "target": "충남앵커공유대학(모빌리티) 참여대학 재학생 40명 이내",
+    "period": "11. 23.(월) 15:00~19:00 / 11. 24.(화) 09:00~13:00",
+    "how": null,
+    "contact": "충남앵커사업단",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-11-23"
+  },
+  {
+   "no": 770341,
+   "campus": "서울",
+   "category": "학생생활",
+   "title": "[비교과_학생복지팀] 2026학년도 2학기 자살예방교육 수강 안내(이캠퍼스)",
+   "author": "서승연",
+   "date": "2026-11-16",
+   "views": 135022,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-30",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770341",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "2026학년도 2학기 자살예방교육을 이수해야 해요.",
+     "교육 영상 시청과 설문조사를 마쳐야 이수로 인정돼요.",
+     "이수하면 비교과 마일리지 2점이 지급돼요."
+    ],
+    "target": "서울캠퍼스 학부 재학생 중 이수학기 7학기 이내인 학생",
+    "period": "2026. 11. 30.(월)까지",
+    "how": "샘물포털 로그인 후 e-Campus에서 자살예방교육 영상 시청",
+    "contact": "학생복지팀",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": null
+  },
+  {
+   "no": 770338,
+   "campus": "천안",
+   "category": "비교과",
+   "title": "[충남앵커공유대학] 그린바이오 튜터링 프로그램 안내(11/23~27)",
+   "author": "김규연",
+   "date": "2026-11-16",
+   "views": 124252,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-27",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770338",
+   "titleDeadline": "2026-11-27",
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "암세포 배양실험과 세포 사멸 분석 실습을 해요.",
+     "항암제 세포 효능 검증(바이오마커 분석)도 다뤄요.",
+     "11월 23일~27일 16:00~20:00, 천안캠퍼스에서 열려요."
+    ],
+    "target": "충남앵커공유대학(그린바이오) 참여대학 재학생 10명(선착순)",
+    "period": "2026. 11. 23.(월)~11. 27.(금) 16:00~20:00",
+    "how": "구글 폼으로 신청",
+    "contact": "충남앵커사업단",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-11-23"
+  },
+  {
+   "no": 770333,
+   "campus": "천안",
+   "category": "등록/장학",
+   "title": "[학생복지팀] (2026-동계) 근로장학생(방학중) 신청 안내",
+   "author": "박하진",
+   "date": "2026-11-16",
+   "views": 99248,
+   "attachments": 4,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770333",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": {
+    "max_won": null,
+    "label": "장학금",
+    "kind": "장학금"
+   },
+   "ai": {
+    "summary": [
+     "방학 중 근로장학생(2026 동계) 신청 안내예요.",
+     "학생이 직접 신청서를 내는 방식이에요.",
+     "근로 부서와 일정은 첨부 안내 PDF에 있어요."
+    ],
+    "target": "방학 중 근로장학생 희망 학생",
+    "period": null,
+    "how": "첨부 신청서 작성 후 제출",
+    "contact": "학생복지팀",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 770332,
+   "campus": "천안",
+   "category": "등록/장학",
+   "title": "[학생복지팀(천안)] 2026년 국가우수(이공계) 일시지원(한 학기 지원) 유형 신규 장학생 선발 안내",
+   "author": "김선영",
+   "date": "2026-11-16",
+   "views": 112518,
+   "attachments": 1,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-23",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770332",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": {
+    "grades": [
+     3
+    ],
+    "status": [
+     "재학"
+    ],
+    "note": "자연과학·공학계열, 직전학기 평점 3.5 이상"
+   },
+   "money": {
+    "max_won": null,
+    "label": "2026-2학기 등록금 전액",
+    "kind": "장학금"
+   },
+   "ai": {
+    "summary": [
+     "이공계 3학년을 위한 한 학기 등록금 전액 장학금이에요.",
+     "직전학기 백분위 87점(평점 3.5) 이상, 12학점 이상 이수해야 해요.",
+     "11월 23일(월) 오전 11시까지 학생복지팀에 서류를 내야 해요."
+    ],
+    "target": "자연과학·공학계열 3학년 재학생 (국가우수장학생 선발 이력 없는 대한민국 국적자)",
+    "period": "2026. 11. 16.(월) ~ 11. 23.(월) 11:00",
+    "how": "성적증명서 등 서류를 학생복지팀(학생회관 H동 210호)에 제출",
+    "contact": "학생복지팀 041-550-5077",
+    "changes": null,
+    "imageOnly": null
+   },
+   "start": "2026-11-16"
+  },
+  {
+   "no": 770319,
+   "campus": "상명",
+   "category": "학사",
+   "title": "[인문사회 융합인재양성사업단] 비교과 프로그램 '2026 HUSS 미래 융합 아카데미' 안내",
+   "author": "박정주",
+   "date": "2026-11-16",
+   "views": 169786,
+   "attachments": 1,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-30",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770319",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "상명대 재학생 10명을 선착순으로 모집해요.",
+     "2027년 1월 7~8일 1박 2일 캠프형으로 진행해요.",
+     "11월 30일 13시까지 구글폼으로 신청하면 돼요."
+    ],
+    "target": "상명대학교 재학생",
+    "period": "신청 ~11. 30. 13시 / 캠프 2027. 1. 7.(목)~1. 8.(금)",
+    "how": "구글폼으로 온라인 신청",
+    "contact": "HUSS 사업단",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-11-16"
+  },
+  {
+   "no": 770282,
+   "campus": "천안",
+   "category": "학사",
+   "title": "[계당교양교육원교학지원팀] 2026학년도 제2학기 「천안의 이해」 특강 개최",
+   "author": "김아현",
+   "date": "2026-11-13",
+   "views": 150954,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770282",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "2026학년도 2학기 「천안의 이해」 특강이 열려요.",
+     "천안의 가치와 미래를 청년과 함께 이야기하는 자리예요.",
+     "일시와 장소는 원문을 확인해 주세요."
+    ],
+    "target": "재학생",
+    "period": null,
+    "how": null,
+    "contact": "계당교양교육원 교학지원팀",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 770262,
+   "campus": "서울",
+   "category": "비교과",
+   "title": "[의사소통능력개발센터(서울)] 2026학년도 2학기 영어 글쓰기대회 특강안내",
+   "author": "박경희",
+   "date": "2026-11-13",
+   "views": 153794,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770262",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "2026학년도 2학기 영어 글쓰기대회 사전특강이 열려요.",
+     "대회에 참가하지 않는 학생도 특강을 들을 수 있어요.",
+     "참가신청 링크(구글폼)로 신청하면 돼요."
+    ],
+    "target": "영어 글쓰기대회 참가자 및 미참가 학생 모두",
+    "period": null,
+    "how": "참가신청 구글폼 링크로 신청",
+    "contact": "의사소통능력개발센터(서울)",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 770260,
+   "campus": "천안",
+   "category": "비교과",
+   "title": "[충남앵커공유대학] 에너지융합전공 특강 안내 (2026. 11. 16.(금) 11시)",
+   "author": "김규연",
+   "date": "2026-11-13",
+   "views": 191873,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-16",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770260",
+   "titleDeadline": "2026-11-16",
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "충남앵커사업단이 에너지융합전공 특강을 진행해요.",
+     "11월 16일 11시에 특강이 열렸어요.",
+     "관심 있는 학생 누구나 참여할 수 있었어요."
+    ],
+    "target": "관심 있는 학생",
+    "period": "2026. 11. 16. 11시",
+    "how": null,
+    "contact": null,
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-11-16"
+  },
+  {
+   "no": 770233,
+   "campus": "천안",
+   "category": "비교과",
+   "title": "[교육혁신추진팀] 2026학년도 2학기 캡스톤디자인 경진대회 개최 안내",
+   "author": "조승연",
+   "date": "2026-11-12",
+   "views": 219688,
+   "attachments": 2,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-16",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770233",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": {
+    "max_won": 700000,
+    "label": "70만원",
+    "kind": "상금"
+   },
+   "ai": {
+    "summary": [
+     "2026학년도 2학기 캡스톤디자인 경진대회가 열려요.",
+     "참가신청은 11월 16일 오후 1시까지 학과 사무실에 내면 돼요.",
+     "결과보고서와 소개영상을 모두 내야 참가로 인정돼요."
+    ],
+    "target": "캡스톤디자인 교과목 중 과제계획서를 제출한 강좌 내 팀",
+    "period": "참가신청 ~11. 16.(월) 오후 1시, 결과물 제출 ~11. 30.(월)",
+    "how": "참가신청서 작성 후 소속 학과 사무실에 제출",
+    "contact": "교육혁신추진팀(천안) 041-623-0068",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": null,
+   "thread": [
+    770233,
+    770382
+   ],
+   "supersededBy": 770382
+  },
+  {
+   "no": 770218,
+   "campus": "상명",
+   "category": "일반",
+   "title": "[인문사회 융합인재양성사업단] HUSS 홍보대사 HUGS 5기와 함께하는 HUSS 홍보 숏폼 공모전 'HUSS 챌린지' 안내",
+   "author": "박정주",
+   "date": "2026-11-11",
+   "views": 284383,
+   "attachments": 1,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-22",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770218",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": {
+    "max_won": 300000,
+    "label": "30만원",
+    "kind": "상금"
+   },
+   "ai": {
+    "summary": [
+     "HUSS 사업단이 숏폼 영상 공모전 'HUSS 챌린지'를 열어요.",
+     "15~60초 세로형 숏폼 영상을 만들어 제출하면 돼요.",
+     "대상 30만 원 등 시상과 참가상 커피쿠폰이 있어요."
+    ],
+    "target": "2026년 2학기 상명대 학부 재학생 누구나",
+    "period": "2026.10.31.~2026.11.22.",
+    "how": "구글폼 신청서 제출 후 HUSS 사업단 이메일로 영상 원본 제출",
+    "contact": "HUSS 사업단",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-10-31"
+  },
+  {
+   "no": 770203,
+   "campus": "천안",
+   "category": "진로취업",
+   "title": "[TeX-Corps] 2026 충청권역 Pre TeX-Corps 프로그램 안내",
+   "author": "성현지",
+   "date": "2026-11-11",
+   "views": 55887,
+   "attachments": 1,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770203",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": null,
+    "target": null,
+    "period": null,
+    "how": null,
+    "contact": null,
+    "changes": null,
+    "imageOnly": true
+   }
+  },
+  {
+   "no": 770202,
+   "campus": "상명",
+   "category": "진로취업",
+   "title": "[취업진로지원팀] 취업준비콘서트 일자리톡톡 안내_유한양행",
+   "author": "김태연",
+   "date": "2026-11-11",
+   "views": 55300,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770202",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "서울고용노동청과 함께하는 취업준비콘서트 '일자리톡톡' 안내예요.",
+     "포스터 오른쪽 위 QR코드로 참여 신청을 해요.",
+     "일시와 장소 등 세부 내용은 본문 포스터 이미지에 있어요."
+    ],
+    "target": null,
+    "period": null,
+    "how": "포스터 QR코드로 신청",
+    "contact": "취업진로지원팀",
+    "changes": null,
+    "imageOnly": true
+   }
+  },
+  {
+   "no": 770186,
+   "campus": "서울",
+   "category": "등록/장학",
+   "title": "문우림 제6기 장학생 선발 안내",
+   "author": "김혜경",
+   "date": "2026-11-10",
+   "views": 191851,
+   "attachments": 2,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770186",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": {
+    "max_won": null,
+    "label": "장학금",
+    "kind": "장학금"
+   },
+   "ai": {
+    "summary": null,
+    "target": null,
+    "period": null,
+    "how": null,
+    "contact": null,
+    "changes": null,
+    "imageOnly": true
+   }
+  },
+  {
+   "no": 770178,
+   "campus": "상명",
+   "category": "글로벌",
+   "title": "[대외협력팀] 2027학년도 2학기 파견 디즈니 국제 교환 프로그램 참가자 모집조건 변경",
+   "author": "전현정",
+   "date": "2026-11-10",
+   "views": 62585,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-16",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770178",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "디즈니 국제 교환 프로그램(2027-2학기 파견) 모집조건이 바뀌었어요.",
+     "신청 마감이 11월 16일(월) 오전 9시로 1주일 연장됐어요.",
+     "듀오링고 기준 점수가 100/100/100으로 낮아졌어요."
+    ],
+    "target": "2027학년도 2학기 디즈니 국제 교환 프로그램 지원자",
+    "period": "~ 2026. 11. 16.(월) 09:00",
+    "how": "기존 모집 공고(No. 769217) 방법대로 신청",
+    "contact": "대외협력팀",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": null
+  },
+  {
+   "no": 770168,
+   "campus": "천안",
+   "category": "비교과",
+   "title": "[충남앵커공유대학] 2026학년도 상명대학교 충남앵커공유대학 비교과프로그램(창업프로그램) 안내",
+   "author": "김규연",
+   "date": "2026-11-10",
+   "views": 225960,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-12-31",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770168",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "충남앵커공유대학(에너지융합) 창업 프로그램을 온라인으로 들어요.",
+     "K-Startup 창업에듀에서 '창업실현과 성장전략' 과정(2시간)을 신청해요.",
+     "상명대 학생은 이수하면 비교과 마일리지 4점을 받아요."
+    ],
+    "target": "충남앵커공유대학(에너지융합) 참여대학 재학생",
+    "period": "2026. 11. 2.(월) ~ 12. 31.(목)",
+    "how": "K-Startup 창업에듀 > 민간 패키지에서 과정 신청",
+    "contact": "충남앵커사업단",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-11-02"
+  },
+  {
+   "no": 770149,
+   "campus": "천안",
+   "category": "등록/장학",
+   "title": "[학생복지팀] 한국장학재단 2026년 2학기 국가장학금Ⅰ유형(다자녀 포함) 지급 안내_재단 10월 29일 지급실행분",
+   "author": "김선영",
+   "date": "2026-11-10",
+   "views": 178346,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-10-29",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770149",
+   "titleDeadline": "2026-10-29",
+   "deadlineSource": "title",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "2026년 2학기 국가장학금Ⅰ유형이 11월 10일에 지급됐어요.",
+     "대출 상환 여부에 따라 확인해야 할 지급 차수가 달라요.",
+     "별도 신청 없이 샘물에서 장학내역과 계좌를 확인하면 돼요."
+    ],
+    "target": "2026년 2학기 국가장학금Ⅰ유형·다자녀 국가장학금 지급 대상",
+    "period": "2026.11.10.(화) 지급",
+    "how": "별도 신청 없음, 샘물 통합정보시스템에서 확인",
+    "contact": "학생복지팀 041-550-5077",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 770147,
+   "campus": "천안",
+   "category": "사회봉사",
+   "title": "[상명사회봉사단] 2026학년도 2학기 사랑의 헌혈 운동(2차) 참여 안내",
+   "author": "김채연",
+   "date": "2026-11-10",
+   "views": 166261,
+   "attachments": 3,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770147",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "상명사회봉사단 2학기 사랑의 헌혈 운동(2차) 참여 안내예요.",
+     "일시와 장소는 첨부된 포스터와 안내문에 있어요.",
+     "헌혈 전 주의사항은 첨부 헌혈 안내문을 확인해요."
+    ],
+    "target": null,
+    "period": null,
+    "how": null,
+    "contact": "상명사회봉사단",
+    "changes": null,
+    "imageOnly": true
+   }
+  },
+  {
+   "no": 770130,
+   "campus": "천안",
+   "category": "비교과",
+   "title": "[교육혁신추진팀] 2026-1 캡스톤디자인 경진대회 우수사례 모음집",
+   "author": "조승연",
+   "date": "2026-11-09",
+   "views": 59905,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770130",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "2026-1 캡스톤디자인 경진대회 우수사례를 전자책으로 냈어요.",
+     "서울 13건, 천안 18건의 결과보고서가 실려 있어요.",
+     "상명대학교 전자도서관에서 볼 수 있어요."
+    ],
+    "target": null,
+    "period": null,
+    "how": "상명대학교 전자도서관에서 열람",
+    "contact": "교육혁신추진팀 041-623-0068",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 770115,
+   "campus": "상명",
+   "category": "진로취업",
+   "title": "[앵커사업팀(서울)] \"AI교육과 취업\" 26년 청년취업사관학교 대학+ 교육생 모집",
+   "author": "김윤희",
+   "date": "2026-11-09",
+   "views": 180758,
+   "attachments": 2,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-22",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770115",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "청년취업사관학교 대학+ AI 교육생을 모집해요(교육비 무료).",
+     "교육은 12/15~1/29 평일 9~18시, 트랙별 280시간이에요.",
+     "11월 22일 24시까지 구글폼으로 지원해요."
+    ],
+    "target": "수료 후 취업·창업을 희망하는 만 15세 이상 서울시민 또는 서울 거소자",
+    "period": "신청 10. 12.~11. 22. 24시 / 교육 12. 15.~1. 29.",
+    "how": "구글폼으로 온라인 지원 → 서류·면접",
+    "contact": "서울앵커사업팀 02-2287-5189",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-10-12"
+  },
+  {
+   "no": 770100,
+   "campus": "서울",
+   "category": "등록/장학",
+   "title": "2027-2028 이스라엘 정부초청 장학생 선발 안내",
+   "author": "김혜경",
+   "date": "2026-11-09",
+   "views": 68573,
+   "attachments": 2,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770100",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": {
+    "max_won": null,
+    "label": "장학금",
+    "kind": "장학금"
+   },
+   "ai": {
+    "summary": [
+     "이스라엘 정부초청 장학생(2027-2028)을 선발해요.",
+     "대상, 기간, 지원 방법은 첨부 PDF 안내문에 있어요.",
+     "지원서 양식도 첨부파일로 올라와 있어요."
+    ],
+    "target": null,
+    "period": null,
+    "how": "첨부 안내문 확인 후 지원서 양식 제출",
+    "contact": null,
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 770098,
+   "campus": "서울",
+   "category": "사회봉사",
+   "title": "[상명사회봉사단] 2026학년도 6차 교내 환경정화(플로깅) 봉사활동 모집",
+   "author": "정다연",
+   "date": "2026-11-09",
+   "views": 131777,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-11",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770098",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "11월 12일(목) 16~17시 교내 환경정화(플로깅) 봉사예요.",
+     "11월 9일~11일 샘물통합시스템에서 선착순으로 신청했어요.",
+     "참가하면 봉사 1시간과 봉사단 활동 1회가 인정돼요."
+    ],
+    "target": "재학생 (선착순)",
+    "period": "신청 11. 9.~11. 11. / 활동 11. 12.(목) 16:00~17:00",
+    "how": "샘물통합시스템 > 학생기본 > 사회봉사 > 봉사활동 신청",
+    "contact": "상명소셜임팩트센터 운영팀 02-2287-7023",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-11-09"
+  },
+  {
+   "no": 770095,
+   "campus": "상명",
+   "category": "등록/장학",
+   "title": "국제언어문화교육원 두레장학생(두레조교) 채용 공고",
+   "author": "이주현",
+   "date": "2026-11-09",
+   "views": 239714,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770095",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "국제언어문화교육원에서 일할 두레장학생(두레조교) 1명을 뽑아요.",
+     "대학원 재학생 대상이고, 외국어·엑셀·한글 가능자를 우대해요.",
+     "주 14시간, 평일 9~17시 30분 중 협의해서 근무해요."
+    ],
+    "target": "본교 대학원 재학생",
+    "period": "채용 시까지",
+    "how": "자유 양식 이력서 1부를 이메일로 제출",
+    "contact": "국제언어문화교육원 02-2287-5298",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 770093,
+   "campus": "천안",
+   "category": "비교과",
+   "title": "[의사소통능력개발센터] 2026학년도 제2학기 상명프레젠테이션대회(국어) 청중단 모집 기간연장(~11/15까지)",
+   "author": "김아현",
+   "date": "2026-11-09",
+   "views": 189919,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-15",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770093",
+   "titleDeadline": "2026-11-15",
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "상명프레젠테이션대회(국어) 청중단 모집 기간이 연장됐어요.",
+     "11월 15일까지 구글폼으로 신청해요.",
+     "중간에 나가거나 만족도 조사를 안 하면 마일리지가 없어요."
+    ],
+    "target": "대회 청중단으로 끝까지 참여할 학생",
+    "period": "~ 11. 15.",
+    "how": "본문의 구글폼 링크로 신청",
+    "contact": "의사소통능력개발센터",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": null
+  },
+  {
+   "no": 770085,
+   "campus": "서울",
+   "category": "비교과",
+   "title": "[의사소통능력개발센터(서울)] 2026학년도 2학기 에세이경진대회 안내(서울캠퍼스)",
+   "author": "박경희",
+   "date": "2026-11-06",
+   "views": 172886,
+   "attachments": 6,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770085",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "서울캠퍼스 2학기 에세이경진대회가 열려요(학술·비평 부문).",
+     "본문의 구글폼으로 참여 신청하고 참가신청서를 내요.",
+     "카피킬러 보고서 등 제출 안내와 양식이 첨부돼 있어요."
+    ],
+    "target": "서울캠퍼스 학생 (천안캠은 천안 공지 확인)",
+    "period": null,
+    "how": "구글폼 참여 신청 + 첨부 참가신청서 제출",
+    "contact": "의사소통능력개발센터(서울)",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 770082,
+   "campus": "천안",
+   "category": "비교과",
+   "title": "[의사소통능력개발센터(천안)] 2026학년도 2학기 AI 디지털능력향상프로그램(3차) 참여자 모집(날짜 수정)",
+   "author": "서아연",
+   "date": "2026-11-06",
+   "views": 212529,
+   "attachments": 0,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-26",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770082",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "AI 디지털능력향상 특강(3차) 참여자를 선착순 모집해요.",
+     "11월 26일(목) 16~18시, 천안캠 본관 C316호에서 열려요.",
+     "참여하면 비교과 마일리지 2점, 신청 후 취소는 안 돼요."
+    ],
+    "target": "본교 재학생 누구나 (선착순)",
+    "period": "2026. 11. 26.(목) 16:00~18:00",
+    "how": "구글폼 참여신청 링크로 신청",
+    "contact": "의사소통능력개발센터 041-550-5083",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-11-26"
+  },
+  {
+   "no": 770074,
+   "campus": "천안",
+   "category": "일반",
+   "title": "2027학년도 동아리연합회 임원 선거 시행",
+   "author": "박하진",
+   "date": "2026-11-06",
+   "views": 161476,
+   "attachments": 4,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770074",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "2027학년도 동아리연합회 임원 선거가 열려요.",
+     "후보자 모집 공고문과 입후보 서류가 첨부돼 있어요.",
+     "일정과 신청 방법은 첨부 공고문을 확인해요."
+    ],
+    "target": null,
+    "period": null,
+    "how": "첨부 입후보 신청 서류 작성",
+    "contact": null,
+    "changes": null,
+    "imageOnly": true
+   }
+  },
+  {
+   "no": 770073,
+   "campus": "천안",
+   "category": "학사",
+   "title": "[학사운영팀] 2026학년도 동계 계절수업 수강신청 대상 교과목 및 수강신청 안내(천안캠퍼스)",
+   "author": "송나경",
+   "date": "2026-11-06",
+   "views": 203379,
+   "attachments": 1,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770073",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "천안캠 동계 계절수업 수강신청 대상 교과목과 방법을 안내해요.",
+     "수강신청 후 기간 안에 수강료를 내야 신청이 완료돼요.",
+     "전공 10명, 교양 15명 미만이면 폐강돼요. 일정은 첨부 PDF 확인."
+    ],
+    "target": "동계 계절수업 수강 희망자 (초과학기 휴학생·군휴학생 제외)",
+    "period": null,
+    "how": "수강신청 후 지정 기간 내 수강료 납부",
+    "contact": "학사운영팀(천안) 041-550-5015",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 770071,
+   "campus": "상명",
+   "category": "진로취업",
+   "title": "[국립교통대학교] 2026학년도 별별상상 스타트업 챌린지 모집 안내",
+   "author": "성현지",
+   "date": "2026-11-06",
+   "views": 131018,
+   "attachments": 2,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770071",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "국립교통대학교 '별별상상 스타트업 챌린지' 참가자 모집이에요.",
+     "세부 내용은 본문 이미지와 첨부 계획서에 있어요.",
+     "제출서류 양식(hwpx)이 첨부돼 있어요."
+    ],
+    "target": null,
+    "period": null,
+    "how": "첨부 제출서류 양식 작성",
+    "contact": null,
+    "changes": null,
+    "imageOnly": true
+   }
+  },
+  {
+   "no": 770066,
+   "campus": "서울",
+   "category": "학사",
+   "title": "[학사운영팀] 2026학년도 동계 계절수업 수강신청 대상 교과목 및 수강신청 안내(서울캠퍼스)",
+   "author": "서건",
+   "date": "2026-11-06",
+   "views": 189996,
+   "attachments": 2,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770066",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "서울캠 동계 계절수업 수강신청 대상 교과목과 방법을 안내해요.",
+     "대상 교과목 목록은 첨부 PDF에 있어요.",
+     "바이오헬스 교과목은 별도 통합플랫폼에서 신청해요."
+    ],
+    "target": "서울캠퍼스 동계 계절수업 수강 희망자",
+    "period": null,
+    "how": "첨부 안내 확인 후 수강신청",
+    "contact": "학사운영팀",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 770065,
+   "campus": "천안",
+   "category": "진로취업",
+   "title": "기후에너지환경부「국립생물자원관 대학생 현장실습(2027년 동계, 38기)」참가자 모집 안내",
+   "author": "하지영",
+   "date": "2026-11-06",
+   "views": 78284,
+   "attachments": 2,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-17",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770065",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": {
+    "grades": [
+     3,
+     4
+    ],
+    "status": [],
+    "note": null
+   },
+   "money": null,
+   "ai": {
+    "summary": [
+     "국립생물자원관 대학생 현장실습(2027 동계) 참가자를 모집해요.",
+     "생물다양성 관련 전공 3학년·4학년 1학기 재학생이 대상이에요.",
+     "11월 17일 16시 마감, 실습은 1/5~2/4이에요."
+    ],
+    "target": "생물다양성 관련 전공 4학기 이상 이수한 3학년·4학년 1학기 재학생",
+    "period": "신청 11. 4.~11. 17. 16:00 / 실습 2027. 1. 5.~2. 4.",
+    "how": "첨부 안내문 참고",
+    "contact": "국립생물자원관 생물다양성교육과",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-11-04"
+  },
+  {
+   "no": 770062,
+   "campus": "서울",
+   "category": "학생생활",
+   "title": "[학생상담센터] 2026학년도 상담 및 프로그램 참여 수기 공모전 안내(장학금 총140만원)",
+   "author": "유지민",
+   "date": "2026-11-06",
+   "views": 177144,
+   "attachments": 1,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-12-06",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770062",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": {
+    "max_won": 300000,
+    "label": "30만원",
+    "kind": "상금"
+   },
+   "ai": {
+    "summary": [
+     "학생상담센터 프로그램 참여 수기 공모전이에요(익명 보장).",
+     "A4 3매 내외로 써서 12월 6일 23:59까지 이메일로 내요.",
+     "대상 30만원(1명), 금상 10만원(11명) 장학금을 줘요."
+    ],
+    "target": "학생상담센터 프로그램에 참여한 학부 재학생",
+    "period": "2026. 11. 9.(월) ~ 12. 6.(일) 23:59",
+    "how": "첨부 양식으로 작성해 이메일 제출",
+    "contact": "학생상담센터 02-2287-6438",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-11-09"
+  },
+  {
+   "no": 770056,
+   "campus": "서울",
+   "category": "진로취업",
+   "title": "[현장실습·일경험지원팀(서울)] 2026학년도 2학기 현장실습학기제 참여자 모집 재안내",
+   "author": "조은성",
+   "date": "2026-11-06",
+   "views": 166271,
+   "attachments": 3,
+   "pinned": false,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-12-04",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770056",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "동계방학 현장실습학기제 참여자를 다시 모집해요.",
+     "12월 4일(금) 13시까지 e-포트폴리오에서 신청해요.",
+     "실습은 2027년 1~2월, 기관별로 조기 마감될 수 있어요."
+    ],
+    "target": "현장실습 희망 학생",
+    "period": "신청 10. 19.~12. 4. 13:00 / 실습 2027. 1. 1.~2. 28.",
+    "how": "e-포트폴리오에서 신청",
+    "contact": "현장실습·일경험지원팀(서울)",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-10-19"
+  },
+  {
+   "no": 769734,
+   "campus": "천안",
+   "category": "학사",
+   "title": "[교무팀] 천안캠퍼스 2026학년도 동계 계절수업 학점교류 안내 (상명→타대)",
+   "author": "김수희",
+   "date": "2026-10-27",
+   "views": 374017,
+   "attachments": 12,
+   "pinned": true,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=769734",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "협정 대학의 동계 계절수업을 듣는 학점교류 안내예요.",
+     "대학별 마감 2~3일 전까지 소속 학과에 서류를 내야 해요.",
+     "졸업예정자는 학점 인정이 늦어질 수 있어 주의해요."
+    ],
+    "target": "협정 대학 동계 계절수업 수강 희망 학생",
+    "period": "대학별 마감 2~3일 전까지",
+    "how": "신청서를 소속 학과에 제출",
+    "contact": "교무팀(천안)",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 769358,
+   "campus": "서울",
+   "category": "학사",
+   "title": "2026학년도 동계 계절수업 안내",
+   "author": "서건",
+   "date": "2026-10-08",
+   "views": 981316,
+   "attachments": 1,
+   "pinned": true,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": "2026-11-19",
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=769358",
+   "titleDeadline": null,
+   "deadlineSource": "ai",
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "2026학년도 동계 계절수업(서울) 전체 일정 안내예요.",
+     "계절학기 수강신청은 11월 17일~19일(마지막 날 17시까지)이었어요.",
+     "신청 후 수강료 납부 기간에 꼭 납부해야 해요."
+    ],
+    "target": "동계 계절수업 수강 희망 학생",
+    "period": "수요조사 10. 22.~10. 26. / 수강신청 11. 17.~11. 19.",
+    "how": "기간 내 수강신청 후 수강료 납부",
+    "contact": "학사운영팀 02-2287-5012",
+    "changes": null,
+    "imageOnly": false
+   },
+   "start": "2026-11-17"
+  },
+  {
+   "no": 767984,
+   "campus": "서울",
+   "category": "학사",
+   "title": "[학사운영팀] 2026학년도 제2학기 이수구분 정정 신청 안내",
+   "author": "서건",
+   "date": "2026-08-24",
+   "views": 1769543,
+   "attachments": 1,
+   "pinned": true,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=767984",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "2학기 이수구분(전공·교양 등) 정정 신청 안내예요.",
+     "2027년 2월 졸업 대상자는 정정 필요 여부를 꼭 확인해야 해요.",
+     "신청 기간과 방법은 첨부 PDF에 있어요."
+    ],
+    "target": "2027년 2월 졸업대상자 등 이수구분 정정이 필요한 학생",
+    "period": null,
+    "how": "첨부 안내 PDF 확인",
+    "contact": "학사운영팀",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 765873,
+   "campus": "상명",
+   "category": "진로취업",
+   "title": "[취업진로지원팀] MentorLink System 이용 안내",
+   "author": "오수진",
+   "date": "2026-05-18",
+   "views": 2473481,
+   "attachments": 1,
+   "pinned": true,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=765873",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "선배·현직자 멘토와 연결해 주는 MentorLink 시스템 안내예요.",
+     "별도 신청 없이 상명 커리어 사이트에서 이용해요.",
+     "자세한 이용 방법은 첨부 가이드 PDF에 있어요."
+    ],
+    "target": "재학생",
+    "period": null,
+    "how": "smcareer.smu.ac.kr 접속 후 이용",
+    "contact": "취업진로지원팀",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 763529,
+   "campus": "상명",
+   "category": "진로취업",
+   "title": "[취업진로지원팀] 2026학년도 온라인 취업지원서비스(잡플래닛, 에듀스, 코멘토) 이용 안내",
+   "author": "박세희",
+   "date": "2026-03-04",
+   "views": 2784431,
+   "attachments": 3,
+   "pinned": true,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=763529",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "잡플래닛, 에듀스, 코멘토를 2027년 2월 28일까지 무료로 써요.",
+     "잡플래닛은 재학·휴학생, 에듀스·코멘토는 졸업생도 이용 가능해요.",
+     "학교 홈페이지 취업지원 페이지에서 접속해요."
+    ],
+    "target": "재학생·휴학생 (에듀스·코멘토는 졸업생 포함)",
+    "period": "~ 2027. 2. 28. 이용 가능",
+    "how": "학교 홈페이지 취업지원 페이지에서 접속",
+    "contact": "취업진로지원팀",
+    "changes": null,
+    "imageOnly": false
+   }
+  },
+  {
+   "no": 763309,
+   "campus": "상명",
+   "category": "진로취업",
+   "title": "[취업진로지원팀] 청년 어학, 자격시험 응시료 지원사업 안내",
+   "author": "박세희",
+   "date": "2026-02-25",
+   "views": 2740262,
+   "attachments": 1,
+   "pinned": true,
+   "source": "main",
+   "sourceName": "통합공지",
+   "deadline": null,
+   "url": "https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=763309",
+   "titleDeadline": null,
+   "deadlineSource": null,
+   "eligibility": null,
+   "money": null,
+   "ai": {
+    "summary": [
+     "미취업 청년의 어학·자격시험 응시료를 지자체가 지원해요.",
+     "지원 여부와 금액은 사는 지역에 따라 달라요.",
+     "국가기술자격시험 응시료 감면은 Q-net에서 확인해요."
+    ],
+    "target": "미취업 청년 (거주 지역별 상이)",
+    "period": null,
+    "how": "거주 지자체 사이트·Q-net에서 확인 후 신청",
+    "contact": "취업진로지원팀",
+    "changes": null,
+    "imageOnly": false
+   }
+  }
+ ],
+ "calendars": [
+  {
+   "file": "all.ics",
+   "name": "전체",
+   "count": 26
+  },
+  {
+   "file": "academic.ics",
+   "name": "학사",
+   "count": 3
+  },
+  {
+   "file": "scholarship.ics",
+   "name": "등록/장학",
+   "count": 2
+  },
+  {
+   "file": "extracurricular.ics",
+   "name": "비교과",
+   "count": 11
+  },
+  {
+   "file": "career.ics",
+   "name": "진로취업",
+   "count": 3
+  },
+  {
+   "file": "life.ics",
+   "name": "학생생활",
+   "count": 2
+  },
+  {
+   "file": "general.ics",
+   "name": "일반",
+   "count": 2
+  },
+  {
+   "file": "volunteer.ics",
+   "name": "사회봉사",
+   "count": 2
+  },
+  {
+   "file": "global.ics",
+   "name": "글로벌",
+   "count": 1
+  },
+  {
+   "file": "cheonan.ics",
+   "name": "천안캠퍼스",
+   "count": 18
+  },
+  {
+   "file": "seoul.ics",
+   "name": "서울캠퍼스",
+   "count": 12
+  }
+ ]
+}

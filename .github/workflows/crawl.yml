@@ -1,0 +1,32 @@
+name: 공지 수집
+on:
+  schedule:
+    - cron: "17 0,3,6,9,12 * * *"   # KST 09:17, 12:17, 15:17, 18:17, 21:17
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests beautifulsoup4 anthropic
+      - name: 공지 목록 수집
+        run: python crawler/crawl.py --pages 10
+      - name: 본문에서 마감일 찾기 (API 키 불필요)
+        run: python crawler/bodydates.py --max 60
+      - name: AI 요약 (새 공지만, 키가 없으면 건너뜀)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python crawler/enrich.py --max 30
+      - name: 변경 묶기·금액·캘린더 생성
+        run: python crawler/postprocess.py
+      - name: 변경 사항 커밋
+        run: |
+          git config user.name "gongjikok-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add web/notices.json web/cal crawler/cache
+          git diff --cached --quiet || git commit -m "공지 업데이트 $(TZ=Asia/Seoul date '+%m/%d %H:%M')"
+          git push

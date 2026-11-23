@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gongjikok//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:공지왔수뭉 · 학생생활
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:main-770341@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[비교과_학생복지팀] 2026학년도 2학기 자살예방교
+ 육 수강 안내(이캠퍼스)
+DESCRIPTION:2026학년도 2학기 자살예방교육을 이수해야 해
+ 요.\n교육 영상 시청과 설문조사를 마쳐야 이수로 인정
+ 돼요.\n이수하면 비교과 마일리지 2점이 지급돼요.\n\n
+ 원문: https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770
+ 341\n(공지왔수뭉 · 마감일은 자동 추정\, 원문 확인 필
+ 수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770341
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770062@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261207
+SUMMARY:[학생상담센터] 2026학년도 상담 및 프로그램 참여
+  수기 공모전 안내(장학금 총140만원)
+DESCRIPTION:학생상담센터 프로그램 참여 수기 공모전이에
+ 요(익명 보장).\nA4 3매 내외로 써서 12월 6일 23:59까지 이
+ 메일로 내요.\n대상 30만원(1명)\, 금상 10만원(11명) 장학
+ 금을 줘요.\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=
+ view&articleNo=770062\n(공지왔수뭉 · 마감일은 자동 추정\, 
+ 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770062
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+END:VCALENDAR

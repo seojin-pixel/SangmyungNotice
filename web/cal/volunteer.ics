@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gongjikok//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:공지왔수뭉 · 사회봉사
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:main-770471@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261128
+SUMMARY:[상명사회봉사단] 2026학년도 제6차 리필스테이션 
+ 운영 봉사활동 모집
+DESCRIPTION:11/30(월) 서울노인복지센터에서 리필스테이션 
+ 봉사를 해요.\n선착순 모집이니 참여 가능한 분만 신청
+ 해 주세요.\n봉사 1회 인정과 봉사시간 3시간이 부여돼
+ 요.\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=view&artic
+ leNo=770471\n(공지왔수뭉 · 마감일은 자동 추정\, 원문 확
+ 인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770471
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770098@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261112
+SUMMARY:[상명사회봉사단] 2026학년도 6차 교내 환경정화(
+ 플로깅) 봉사활동 모집
+DESCRIPTION:11월 12일(목) 16~17시 교내 환경정화(플로깅) 봉
+ 사예요.\n11월 9일~11일 샘물통합시스템에서 선착순으로
+  신청했어요.\n참가하면 봉사 1시간과 봉사단 활동 1회
+ 가 인정돼요.\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mo
+ de=view&articleNo=770098\n(공지왔수뭉 · 마감일은 자동 추정
+ \, 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770098
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+END:VCALENDAR

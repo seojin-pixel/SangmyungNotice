@@ -1,0 +1,247 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gongjikok//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:공지왔수뭉 · 서울캠퍼스
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:main-770500@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:[교육혁신추진팀] 2026-2 캡스톤디자인 만족도 조
+ 사 참여 안내
+DESCRIPTION:2026-2 캡스톤디자인 지원과 경진대회 개선을 
+ 위한 만족도 조사예요.\n응답은 2026년 12월 14일 오전 10
+ 시까지 가능해요.\n경진대회 마일리지는 결과보고서를
+  제출한 학생에게만 부여돼요.\n\n원문: https://www.smu.ac.k
+ r/kor/life/notice.do?mode=view&articleNo=770500\n(공지왔수뭉 · 마
+ 감일은 자동 추정\, 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770500
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770471@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261128
+SUMMARY:[상명사회봉사단] 2026학년도 제6차 리필스테이션 
+ 운영 봉사활동 모집
+DESCRIPTION:11/30(월) 서울노인복지센터에서 리필스테이션 
+ 봉사를 해요.\n선착순 모집이니 참여 가능한 분만 신청
+ 해 주세요.\n봉사 1회 인정과 봉사시간 3시간이 부여돼
+ 요.\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=view&artic
+ leNo=770471\n(공지왔수뭉 · 마감일은 자동 추정\, 원문 확
+ 인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770471
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770399@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:[교육혁신추진팀] 2026-2 캡스톤디자인 경진대회 
+ 참가신청 및 결과물 제출 기한 연장
+DESCRIPTION:캡스톤디자인 경진대회 참가신청 기한이 연장
+ 됐어요.\n참가신청은 11월 23일 오후 1시까지 학과에 제
+ 출해요.\n결과물은 12월 4일까지 내야 하고\, 미제출 시 
+ 0점이에요.\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=
+ view&articleNo=770399\n(공지왔수뭉 · 마감일은 자동 추정\, 
+ 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770399
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770341@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[비교과_학생복지팀] 2026학년도 2학기 자살예방교
+ 육 수강 안내(이캠퍼스)
+DESCRIPTION:2026학년도 2학기 자살예방교육을 이수해야 해
+ 요.\n교육 영상 시청과 설문조사를 마쳐야 이수로 인정
+ 돼요.\n이수하면 비교과 마일리지 2점이 지급돼요.\n\n
+ 원문: https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770
+ 341\n(공지왔수뭉 · 마감일은 자동 추정\, 원문 확인 필
+ 수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770341
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770319@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261201
+SUMMARY:[인문사회 융합인재양성사업단] 비교과 프로그램
+  '2026 HUSS 미래 융합 아카데미' 안내
+DESCRIPTION:상명대 재학생 10명을 선착순으로 모집해요.\n2
+ 027년 1월 7~8일 1박 2일 캠프형으로 진행해요.\n11월 30일 
+ 13시까지 구글폼으로 신청하면 돼요.\n\n원문: https://www.
+ smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770319\n(공지왔수
+ 뭉 · 마감일은 자동 추정\, 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770319
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770218@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261123
+SUMMARY:[인문사회 융합인재양성사업단] HUSS 홍보대사 HUGS
+  5기와 함께하는 HUSS 홍보 숏폼 공모전 'HUSS 챌린지' 안
+ 내
+DESCRIPTION:HUSS 사업단이 숏폼 영상 공모전 'HUSS 챌린지'를
+  열어요.\n15~60초 세로형 숏폼 영상을 만들어 제출하면 
+ 돼요.\n대상 30만 원 등 시상과 참가상 커피쿠폰이 있어
+ 요.\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=view&artic
+ leNo=770218\n(공지왔수뭉 · 마감일은 자동 추정\, 원문 확
+ 인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770218
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770178@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:[대외협력팀] 2027학년도 2학기 파견 디즈니 국제 
+ 교환 프로그램 참가자 모집조건 변경
+DESCRIPTION:디즈니 국제 교환 프로그램(2027-2학기 파견) 모
+ 집조건이 바뀌었어요.\n신청 마감이 11월 16일(월) 오전 
+ 9시로 1주일 연장됐어요.\n듀오링고 기준 점수가 100/100/
+ 100으로 낮아졌어요.\n\n원문: https://www.smu.ac.kr/kor/life/not
+ ice.do?mode=view&articleNo=770178\n(공지왔수뭉 · 마감일은 자
+ 동 추정\, 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770178
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770115@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261123
+SUMMARY:[앵커사업팀(서울)] "AI교육과 취업" 26년 청년취업
+ 사관학교 대학+ 교육생 모집
+DESCRIPTION:청년취업사관학교 대학+ AI 교육생을 모집해요
+ (교육비 무료).\n교육은 12/15~1/29 평일 9~18시\, 트랙별 280
+ 시간이에요.\n11월 22일 24시까지 구글폼으로 지원해요.\
+ n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=
+ 770115\n(공지왔수뭉 · 마감일은 자동 추정\, 원문 확인 
+ 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770115
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770098@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261112
+SUMMARY:[상명사회봉사단] 2026학년도 6차 교내 환경정화(
+ 플로깅) 봉사활동 모집
+DESCRIPTION:11월 12일(목) 16~17시 교내 환경정화(플로깅) 봉
+ 사예요.\n11월 9일~11일 샘물통합시스템에서 선착순으로
+  신청했어요.\n참가하면 봉사 1시간과 봉사단 활동 1회
+ 가 인정돼요.\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mo
+ de=view&articleNo=770098\n(공지왔수뭉 · 마감일은 자동 추정
+ \, 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770098
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770062@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261207
+SUMMARY:[학생상담센터] 2026학년도 상담 및 프로그램 참여
+  수기 공모전 안내(장학금 총140만원)
+DESCRIPTION:학생상담센터 프로그램 참여 수기 공모전이에
+ 요(익명 보장).\nA4 3매 내외로 써서 12월 6일 23:59까지 이
+ 메일로 내요.\n대상 30만원(1명)\, 금상 10만원(11명) 장학
+ 금을 줘요.\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=
+ view&articleNo=770062\n(공지왔수뭉 · 마감일은 자동 추정\, 
+ 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770062
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770056@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261205
+SUMMARY:[현장실습·일경험지원팀(서울)] 2026학년도 2학기 
+ 현장실습학기제 참여자 모집 재안내
+DESCRIPTION:동계방학 현장실습학기제 참여자를 다시 모집
+ 해요.\n12월 4일(금) 13시까지 e-포트폴리오에서 신청해
+ 요.\n실습은 2027년 1~2월\, 기관별로 조기 마감될 수 있
+ 어요.\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=view&ar
+ ticleNo=770056\n(공지왔수뭉 · 마감일은 자동 추정\, 원문 
+ 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770056
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-769358@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261120
+SUMMARY:2026학년도 동계 계절수업 안내
+DESCRIPTION:2026학년도 동계 계절수업(서울) 전체 일정 안
+ 내예요.\n계절학기 수강신청은 11월 17일~19일(마지막 날
+  17시까지)이었어요.\n신청 후 수강료 납부 기간에 꼭 
+ 납부해야 해요.\n\n원문: https://www.smu.ac.kr/kor/life/notice.do
+ ?mode=view&articleNo=769358\n(공지왔수뭉 · 마감일은 자동 추
+ 정\, 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=769358
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+END:VCALENDAR

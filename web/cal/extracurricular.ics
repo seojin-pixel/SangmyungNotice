@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gongjikok//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:공지왔수뭉 · 비교과
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:main-770537@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:[충남앵커공유대학] 2026학년도 충남앵커공유대학
+  캡스톤 경진대회 개최 및 참가 신청 변경 안내
+DESCRIPTION:충남앵커공유대학 캡스톤 경진대회가 12월 4일
+ (금)에 열려요.\n다른 대회 수상작도 참가할 수 있게 참
+ 가 기준이 바뀌었어요.\n네이버폼 신청 후 참가·포스
+ 터 신청서를 11/23(월) 9시까지 내요.\n\n원문: https://www.sm
+ u.ac.kr/kor/life/notice.do?mode=view&articleNo=770537\n(공지왔수뭉 
+ · 마감일은 자동 추정\, 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770537
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770500@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:[교육혁신추진팀] 2026-2 캡스톤디자인 만족도 조
+ 사 참여 안내
+DESCRIPTION:2026-2 캡스톤디자인 지원과 경진대회 개선을 
+ 위한 만족도 조사예요.\n응답은 2026년 12월 14일 오전 10
+ 시까지 가능해요.\n경진대회 마일리지는 결과보고서를
+  제출한 학생에게만 부여돼요.\n\n원문: https://www.smu.ac.k
+ r/kor/life/notice.do?mode=view&articleNo=770500\n(공지왔수뭉 · 마
+ 감일은 자동 추정\, 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770500
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770404@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:[충남앵커공유대학] 에너지융합전공 특강 안내 (2
+ 026. 11. 23.(월) 11시)
+DESCRIPTION:충남앵커사업단이 에너지융합전공 특강을 진
+ 행해요.\n2026년 11월 23일(월) 11시에 열려요.\n관심 있는 
+ 학생들의 많은 참여를 바라요.\n\n원문: https://www.smu.ac.k
+ r/kor/life/notice.do?mode=view&articleNo=770404\n(공지왔수뭉 · 마
+ 감일은 자동 추정\, 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770404
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770399@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:[교육혁신추진팀] 2026-2 캡스톤디자인 경진대회 
+ 참가신청 및 결과물 제출 기한 연장
+DESCRIPTION:캡스톤디자인 경진대회 참가신청 기한이 연장
+ 됐어요.\n참가신청은 11월 23일 오후 1시까지 학과에 제
+ 출해요.\n결과물은 12월 4일까지 내야 하고\, 미제출 시 
+ 0점이에요.\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=
+ view&articleNo=770399\n(공지왔수뭉 · 마감일은 자동 추정\, 
+ 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770399
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770382@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:[교육혁신추진팀] 2026-2 캡스톤디자인 경진대회 
+ 참가신청 기한 연장
+DESCRIPTION:캡스톤디자인 경진대회 참가신청 기한이 연장
+ 됐어요.\n결과보고서(한글+PDF)와 5분 이내 소개 영상을 
+ 둘 다 내야 해요.\n대상 70만원\, 최우수 55만원\, 우수 30
+ 만원\, 장려 10만원이에요.\n\n원문: https://www.smu.ac.kr/kor/
+ life/notice.do?mode=view&articleNo=770382\n(공지왔수뭉 · 마감일
+ 은 자동 추정\, 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770382
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770347@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261125
+SUMMARY:[충남앵커공유대학] 미래모빌리티융합시스템전
+ 공 Skill-up 프로그램 안내
+DESCRIPTION:충남앵커 미래모빌리티 Skill-up 프로그램이 열
+ 려요.\nAI 기반 제품 기획·시각화 실무 마스터클래스로
+  총 8시간이에요.\n참가신청은 11월 19일 17시까지였어요
+ .\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleN
+ o=770347\n(공지왔수뭉 · 마감일은 자동 추정\, 원문 확인
+  필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770347
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770338@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+SUMMARY:[충남앵커공유대학] 그린바이오 튜터링 프로그램
+  안내(11/23~27)
+DESCRIPTION:암세포 배양실험과 세포 사멸 분석 실습을 해
+ 요.\n항암제 세포 효능 검증(바이오마커 분석)도 다뤄
+ 요.\n11월 23일~27일 16:00~20:00\, 천안캠퍼스에서 열려요.\n
+ \n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=7
+ 70338\n(공지왔수뭉 · 마감일은 자동 추정\, 원문 확인 
+ 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770338
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770260@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:[충남앵커공유대학] 에너지융합전공 특강 안내 (2
+ 026. 11. 16.(금) 11시)
+DESCRIPTION:충남앵커사업단이 에너지융합전공 특강을 진
+ 행해요.\n11월 16일 11시에 특강이 열렸어요.\n관심 있는 
+ 학생 누구나 참여할 수 있었어요.\n\n원문: https://www.smu.
+ ac.kr/kor/life/notice.do?mode=view&articleNo=770260\n(공지왔수뭉 ·
+  마감일은 자동 추정\, 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770260
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770168@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20270101
+SUMMARY:[충남앵커공유대학] 2026학년도 상명대학교 충남
+ 앵커공유대학 비교과프로그램(창업프로그램) 안내
+DESCRIPTION:충남앵커공유대학(에너지융합) 창업 프로그램
+ 을 온라인으로 들어요.\nK-Startup 창업에듀에서 '창업실
+ 현과 성장전략' 과정(2시간)을 신청해요.\n상명대 학생
+ 은 이수하면 비교과 마일리지 4점을 받아요.\n\n원문: ht
+ tps://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770168\n(공
+ 지왔수뭉 · 마감일은 자동 추정\, 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770168
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770093@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:[의사소통능력개발센터] 2026학년도 제2학기 상명
+ 프레젠테이션대회(국어) 청중단 모집 기간연장(~11/15까
+ 지)
+DESCRIPTION:상명프레젠테이션대회(국어) 청중단 모집 기
+ 간이 연장됐어요.\n11월 15일까지 구글폼으로 신청해요.
+ \n중간에 나가거나 만족도 조사를 안 하면 마일리지가 
+ 없어요.\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=view
+ &articleNo=770093\n(공지왔수뭉 · 마감일은 자동 추정\, 원
+ 문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770093
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770082@gongjikok
+DTSTAMP:20261123T140203Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:[의사소통능력개발센터(천안)] 2026학년도 2학기 AI
+  디지털능력향상프로그램(3차) 참여자 모집(날짜 수정)
+DESCRIPTION:AI 디지털능력향상 특강(3차) 참여자를 선착순 
+ 모집해요.\n11월 26일(목) 16~18시\, 천안캠 본관 C316호에
+ 서 열려요.\n참여하면 비교과 마일리지 2점\, 신청 후 
+ 취소는 안 돼요.\n\n원문: https://www.smu.ac.kr/kor/life/notice.d
+ o?mode=view&articleNo=770082\n(공지왔수뭉 · 마감일은 자동 
+ 추정\, 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770082
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+END:VCALENDAR
