@@ -1,80 +1,88 @@
+<p align="center">
+  <img src="docs/banner.png" alt="공지왔수뭉 소개 이미지: 마스코트와 앱 화면 두 장" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://seojin-pixel.github.io/SangmyungNotice/web/"><b>사이트 열기</b></a>
+  &nbsp;|&nbsp;
+  <a href="#화면">화면</a>
+  &nbsp;|&nbsp;
+  <a href="#할-수-있는-일">할 수 있는 일</a>
+  &nbsp;|&nbsp;
+  <a href="#이렇게-써-보세요">사용 방법</a>
+</p>
+
+<p align="center">
+  <a href="https://seojin-pixel.github.io/SangmyungNotice/web/"><img src="https://img.shields.io/badge/바로%20쓰기-사이트%20열기-0E207F" alt="사이트 열기"></a>
+  <img src="https://img.shields.io/badge/로그인-필요%20없음-697383" alt="로그인 필요 없음">
+  <img src="https://img.shields.io/badge/캠퍼스-천안%20·%20서울-697383" alt="천안·서울 캠퍼스">
+</p>
+
 # 공지왔수뭉
 
-상명대학교 천안캠퍼스 공지를 **대신 읽고 정리해 주는** 비공식 공지 모음 사이트입니다.
-로그인 없이 동작하고, 내 정보와 관심사, 저장한 공지는 사용자 브라우저에만 저장됩니다.
+상명대학교 홈페이지 공지를 모아 대신 읽고 정리해 주는 비공식 공지 사이트입니다.
+공지마다 3줄 요약과 대상·기간·신청 방법·문의처를 보여 주고 마감이 가까운 공지는 위에 따로 모아 줍니다.
 
-## 다른 공지 알림과 다른 점
+가입이나 로그인은 없습니다. 학년, 관심사, 저장한 공지는 사용하는 브라우저에만 남고 서버로 보내지 않습니다.
+공지는 하루 다섯 번(오전 9시부터 3시간 간격) 새로 가져옵니다.
 
-| 기능 | 설명 | 만드는 곳 |
-|---|---|---|
-| 3줄 요약 | 본문과 이미지를 AI가 읽어 요약하고 대상·기간·방법·문의처를 뽑음 | `crawler/enrich.py` |
-| 해당 여부 | 학년·학적을 입력하면 대상이 아닌 공지를 흐리게 표시 | enrich(본문) + postprocess(제목) |
-| 변경 묶기 | '기한 연장', '변경' 공지를 원래 공지와 묶고 바뀐 마감일 표시 | `crawler/postprocess.py` |
-| 캘린더 | 사이트 안 '공지왔수뭉 캘린더'(시작~마감, 반복 안함/매주/매월/매년, 브라우저에 저장)와 구글 캘린더 보내기, 카테고리·캠퍼스별 구독 피드(`web/cal/*.ics`) | index.html + postprocess |
-| 기간별 | 오늘·이번 주·다음 주·이번 달·직접 선택한 기간의 마감과 꼭 볼 공지, 단톡방용 글 복사 | `web/index.html` |
-| 시기별 강조 | 월별 키워드, 또는 `web/seasons.json`(학사일정)에 맞춰 관련 공지에 가산점 | index.html |
-| 혜택 | 장학금·상금·지원금 공지와 금액 합계 | enrich + postprocess |
-| 게시판 통합 | `crawler/sources.json`에 학과·기숙사 게시판 추가 | `crawler/crawl.py` |
+## 화면
 
-## 실행 순서
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="docs/screenshots/main.png" alt="공지 목록 화면"><br><sub>일주일 안 마감과 최신 공지</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/summary.png" alt="3줄 요약을 펼친 화면"><br><sub>3줄 요약과 대상·방법·문의</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/weekly.png" alt="기간별 정리 화면"><br><sub>이번 주 마감 한 장 정리</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/calendar.png" alt="공지 캘린더 화면"><br><sub>공지 캘린더</sub></td>
+  </tr>
+</table>
 
-```bash
-pip install requests beautifulsoup4 anthropic
-python crawler/crawl.py --pages 10        # 1) 목록 수집 → web/notices.json
-python crawler/bodydates.py --max 60      # 1-1) 본문 텍스트에서 마감일 찾기 (API 키 불필요)
-export ANTHROPIC_API_KEY=sk-ant-...        # (선택) AI 요약용
-python crawler/enrich.py --max 30         # 2) 새 공지만 AI 정리 → crawler/cache/ai.json
-python crawler/postprocess.py             # 3) 합치기, 변경 묶기, 금액, 캘린더
-cd web && python -m http.server 8000      # http://localhost:8000
-```
+<details>
+<summary>화면 더 보기 (처음 안내, 내 정보 설정)</summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="docs/screenshots/guide.png" alt="처음 방문 안내 화면"><br><sub>처음 방문하면 나오는 안내</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/settings.png" alt="내 정보와 관심사 설정 화면"><br><sub>학년·학적·관심사 설정</sub></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
+</table>
+</details>
 
-API 키가 없어도 2단계만 건너뛰고 나머지는 동작합니다. 이 경우 요약은 없고, 마감일은 본문 텍스트와 제목에서 찾습니다(이미지 속 날짜는 못 읽음). 마감일 우선순위는 AI > 본문 텍스트 > 제목입니다.
-마감일을 못 찾은 공지는 사용자가 '날짜 정해서 추가'로 직접 날짜를 고를 수 있습니다(브라우저에만 저장).
+## 할 수 있는 일
 
-## 비용
+| 기능 | 하는 일 |
+|---|---|
+| 3줄 요약 | 본문과 이미지를 읽어 핵심 세 줄로 줄이고 대상·기간·방법·문의처를 따로 보여 줍니다. |
+| 마감 임박 | 일주일 안에 마감되거나 진행되는 공지를 D-day와 함께 맨 위에 모읍니다. |
+| 해당 여부 | 학년과 학적을 입력하면 내가 대상이 아닌 공지를 흐리게 보여 줍니다. |
+| 맞춤추천 | 관심 카테고리와 키워드에 맞는 공지를 위로 올립니다. |
+| 변경 묶기 | '기한 연장', '변경' 공지를 원래 공지와 한 카드로 묶고 바뀐 마감일을 표시합니다. |
+| 기간별 정리 | 오늘·이번 주·다음 주·이번 달·직접 고른 기간의 마감을 한 장으로 모으고 단톡방에 붙일 글로 복사합니다. |
+| 캘린더 | 공지 마감일을 사이트 안 캘린더에 넣거나(매주·매월 반복 가능) 구글 캘린더로 보냅니다. |
+| 시기별 강조 | 그 시기에 많이 찾는 키워드(국가장학금, 계절학기 등)와 맞는 공지를 먼저 보여 줍니다. |
+| 혜택 모아 보기 | 장학금·상금·지원금 공지와 금액 합계를 보여 줍니다. |
+| 똑똑한 검색 | '장'만 쳐도 '장학'을 예상하고 'ㅈㅎ'처럼 초성으로도 찾습니다. |
 
-`enrich.py`는 한 번 정리한 공지를 캐시에 저장해서 새 공지만 처리합니다. 하루 10~20건 정도라 저렴한 모델(기본값 `claude-haiku-4-5`, 환경변수 `GONGJIKOK_MODEL`로 변경 가능)이면 한 달에 몇천 원 수준입니다. `--max`로 하루 상한을 정할 수 있습니다.
+## 이렇게 써 보세요
 
-## 게시판 추가 (학과 공지 등)
+1. 검색창 옆에서 천안, 서울, 전체 중 캠퍼스를 고릅니다. 두 캠퍼스 공통 공지는 어느 쪽에서나 보입니다.
+2. 최신순, 인기순, 맞춤추천, 기간별 가운데 원하는 순서로 봅니다.
+3. 공지의 '3줄 요약'을 누르면 원문을 열지 않아도 핵심 내용과 신청 방법을 확인할 수 있습니다.
+4. 오른쪽 위 조절 버튼에서 학년·학적·관심사를 입력하면 나에게 맞는 공지가 위로 올라옵니다.
+5. 챙겨야 할 공지는 '캘린더에 추가'로 일정에 넣거나 북마크로 저장합니다.
 
-`crawler/sources.json`에 같은 형식으로 추가합니다. 상명대 홈페이지와 같은 시스템의 게시판(주소가 `....do`이고 `?mode=list`로 목록이 나오는 곳)이면 그대로 동작합니다.
+마감일을 찾지 못한 공지는 직접 날짜를 골라 캘린더에 넣을 수 있습니다.
 
-```json
-{"id": "cs", "name": "학과 공지", "url": "학과 게시판 주소(…/notice.do)", "campus": "천안", "category": "학사", "pages": 3}
-```
+## 알아 두기
 
-## 학사일정 연동
+- 요약, 마감일, 대상, 금액은 자동으로 정리한 내용이라 틀릴 수 있습니다. 신청 전에는 꼭 원문을 확인해 주세요.
+- 상명대학교 공식 서비스가 아닌 학생 개인 프로젝트입니다. 모든 공지의 원문은 [상명대학교 홈페이지](https://www.smu.ac.kr/kor/life/notice.do)에 있습니다.
+- 입력한 정보와 저장한 공지는 이 브라우저에만 남습니다. 다른 기기나 브라우저에서는 처음 상태로 열립니다.
 
-`web/seasons.example.json`을 참고해서 **학교 학사일정의 실제 날짜**로 `web/seasons.json`을 만들면, 해당 기간에 관련 키워드 공지가 위로 올라옵니다. 파일이 없으면 월별 일반 키워드를 씁니다.
+## 휴대폰으로 열기
 
-## 무료 배포 (GitHub Pages + Actions)
+<img src="docs/qr.png" alt="사이트 QR 코드" width="160">
 
-1. 이 폴더를 GitHub 저장소로 올립니다.
-2. Settings → Pages → Build and deployment에서 Source를 `Deploy from a branch`, 브랜치를 `main`, 폴더를 `/ (root)`로 고릅니다. 루트의 `index.html`이 `web/`으로 넘겨줘서 `https://<아이디>.github.io/<저장소 이름>/` 주소로 바로 열려요.
-3. (선택) Settings → Secrets → Actions에 `ANTHROPIC_API_KEY`를 등록합니다.
-4. Actions 탭에서 "공지 수집"을 한 번 수동으로 실행합니다. 이후에는 하루 5번 자동으로 실행됩니다.
-
-## 주의
-
-- 요약, 마감일, 대상, 금액은 자동 정리 결과라 틀릴 수 있습니다. 화면에 "원문 확인" 안내를 유지해 주세요.
-- 학교 서버에 부담이 없도록 요청 사이에 1초씩 쉬고, 수집은 하루 몇 번만 합니다.
-- 학교 로고는 쓰지 말고, "비공식" 표기를 유지해 주세요.
-- 개인 이메일 같은 담당자 개인정보는 요약에 넣지 않도록 프롬프트에 적어 두었습니다.
-
-## 마감 알림 메일 켜기
-
-사이트(정적 페이지)만으로는 메일을 보낼 수 없어서, 무료 서비스 두 개를 연결합니다.
-
-1. **Supabase**(무료)에서 프로젝트를 만들고, SQL Editor에 `supabase/schema.sql`을 붙여넣어 실행합니다.
-2. `web/config.example.js`를 `web/config.js`로 복사하고 Supabase의 Project URL과 **anon** 키를 넣습니다. (service_role 키는 절대 넣지 마세요.)
-3. **메일 발송 계정**: Gmail을 쓰면 구글 계정 → 보안 → 2단계 인증 → 앱 비밀번호를 만듭니다.
-4. GitHub 저장소 → Settings → Secrets and variables → Actions에 아래를 등록합니다.
-   - Secrets: `SUPABASE_URL`, `SUPABASE_SERVICE_KEY`(service_role 키), `SMTP_HOST`(smtp.gmail.com), `SMTP_PORT`(465), `SMTP_USER`, `SMTP_PASS`(앱 비밀번호), `MAIL_FROM`
-   - Variables: `SITE_URL`(배포된 사이트 주소)
-5. Actions 탭에서 "마감 알림 메일"을 한 번 수동 실행해 확인 메일이 오는지 봅니다. 이후 매일 아침 8시쯤 자동으로 보냅니다.
-
-동작 방식: 처음 등록하면 확인 메일이 가고, 링크를 눌러야 알림이 시작됩니다(남의 주소 도용 방지). 같은 일정·같은 시점은 한 번만 보냅니다. 메일 아래 링크로 해지하면 주소가 바로 삭제됩니다.
-
-테스트: `python crawler/send_alerts.py --dry-run --fixture crawler/fixtures/subscriptions.json --today 2026-11-22`
-
-**개인정보**: 이메일을 저장하므로 사이트에 개인정보 처리 안내(수집 항목: 이메일·알림 설정, 목적: 마감 알림, 보관: 해지 시 즉시 삭제)를 두는 걸 권장합니다.
+카메라로 찍으면 [seojin-pixel.github.io/SangmyungNotice/web](https://seojin-pixel.github.io/SangmyungNotice/web/)이 열립니다.
