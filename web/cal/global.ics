@@ -6,8 +6,59 @@ X-WR-CALNAME:공지왔수뭉 · 글로벌
 X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
+UID:main-770634@gongjikok
+DTSTAMP:20261124T095300Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:2027년 중국 정부 초청 장학생 어학연수 프로그램 
+ 참가자 모집 안내
+DESCRIPTION:\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=vie
+ w&articleNo=770634\n(공지왔수뭉 · 마감일은 자동 추정\, 원
+ 문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770634
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770567@gongjikok
+DTSTAMP:20261124T095300Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261124
+SUMMARY:[시립청소년문화교류센터] 2027 시드니 글로벌 인
+ 재양성 프로그램 참가자 모집
+DESCRIPTION:\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=vie
+ w&articleNo=770567\n(공지왔수뭉 · 마감일은 자동 추정\, 원
+ 문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770567
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770531@gongjikok
+DTSTAMP:20261124T095300Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:[시바우라공업대학] 시바우라공업대학 GTI 심포지
+ 엄 및 JR동일본 글로벌 인재 설명회 안내
+DESCRIPTION:\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=vie
+ w&articleNo=770531\n(공지왔수뭉 · 마감일은 자동 추정\, 원
+ 문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770531
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:main-770178@gongjikok
-DTSTAMP:20261123T140203Z
+DTSTAMP:20261124T095300Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:[대외협력팀] 2027학년도 2학기 파견 디즈니 국제 

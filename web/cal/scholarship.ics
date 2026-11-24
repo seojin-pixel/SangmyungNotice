@@ -6,8 +6,43 @@ X-WR-CALNAME:공지왔수뭉 · 등록/장학
 X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
+UID:main-770566@gongjikok
+DTSTAMP:20261124T095300Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:두레장학생 모집(학술정보관): 27. 2월부터
+DESCRIPTION:\n\n원문: https://www.smu.ac.kr/kor/life/notice.do?mode=vie
+ w&articleNo=770566\n(공지왔수뭉 · 마감일은 자동 추정\, 원
+ 문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770566
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-770410@gongjikok
+DTSTAMP:20261124T095300Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:[학생복지팀] 한국장학재단 2026년 2학기 주거안정
+ 장학금 9월분 지급 안내
+DESCRIPTION:2026년 2학기 주거안정장학금 9월분이 지급돼요
+ .\n지급일은 2026.11.18.(수)이고 계좌이체로 받아요.\n10~12
+ 월분은 월별 제출마감 안에 요청서를 내야 해요.\n\n원
+ 문: https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770410
+ \n(공지왔수뭉 · 마감일은 자동 추정\, 원문 확인 필수)
+URL:https://www.smu.ac.kr/kor/life/notice.do?mode=view&articleNo=770410
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:내일 마감
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:main-770332@gongjikok
-DTSTAMP:20261123T140203Z
+DTSTAMP:20261124T095300Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261124
 SUMMARY:[학생복지팀(천안)] 2026년 국가우수(이공계) 일시
@@ -27,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:main-770149@gongjikok
-DTSTAMP:20261123T140203Z
+DTSTAMP:20261124T095300Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:[학생복지팀] 한국장학재단 2026년 2학기 국가장학
